@@ -1,2 +1,6 @@
+update_script
 #!/bin/bash
 echo "Best School"
+#!bin/bash
+echo "This School is so cool!"
+master
